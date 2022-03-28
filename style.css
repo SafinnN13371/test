@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700&family=Dancing+Script:wght@700&family=Marck+Script&family=Merriweather:ital@1&family=Open+Sans:ital@1&family=Oswald:wght@400;500&family=Playfair+Display+SC:wght@700&family=Poppins:wght@800&family=Roboto+Mono:wght@500&family=Sansita+Swashed:wght@800&family=Source+Serif+Pro:wght@700&display=swap');
 body {
 	margin: 0;
-	font-family:'Times New Roman', 'Playfair Display', serif;
+	
 
 	font-size: 15px;
 	line-height: 1.6;
@@ -68,13 +68,13 @@ h1, h2, h3, h4, h5, h6 {
 	margin-bottom: 14px;
 	font-size: 82px;
 	color: rgba(255, 255, 255, 0.795);
-	font-family: 'Ramaraja', serif;
+	
 	font-weight: 900;
 	
 }
 
 .intro__title {
-	font-family: 'Lora', serif;
+	
 	font-size: 90px;
 	font-weight: 700;
 	text-transform: uppercase;
@@ -332,7 +332,7 @@ h1, h2, h3, h4, h5, h6 {
 	margin: 0px auto 50px; 
 	text-align: center;
 	margin-top: 10px;
-	font-family: 'Playfair Display', serif;
+	
 }
 .section__subtitle {
 		padding-top: 50px;
@@ -349,7 +349,7 @@ h1, h2, h3, h4, h5, h6 {
 	width: 60px;
 	height: 3px;
 	margin: 30px auto 30px;
-	font-family: 'Roboto Mono', monospace;
+	
 
 	background-color: #51a4c0;
 }
